@@ -14,8 +14,7 @@ main ()
   return 0;
 }
 
-int
-fact (int x)
+int fact (int x)
 {
   int f;
 
